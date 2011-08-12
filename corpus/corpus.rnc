@@ -1,0 +1,9 @@
+# A RELAX NG schema (compact)
+# Intended for listing the corpora contents of 
+# a repository.
+
+element corpora {
+	element corpus  {
+		text
+	}*
+}
