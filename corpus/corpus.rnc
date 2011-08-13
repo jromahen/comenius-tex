@@ -4,6 +4,34 @@
 
 element corpora {
 	element corpus  {
-		text
+		element title {
+			text
+		},
+		( element doc {
+		  	element name {
+				text
+			},
+			element provenance {
+				text
+			},
+			element notes {
+				text
+			}
+		} | ( element collection {
+		       element doc {
+			       	       	element name {
+						text
+					},
+					element provenance {
+						text
+					},
+					element notes {
+						text
+					}
+				}+
+			} )),
+		element version {
+			text
+		}
 	}*
 }
