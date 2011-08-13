@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+
+<corpora>
+  <corpus>
+    <title>Orbis Sensualim Pictus</title>
+    <collection>
+      <doc>
+	<name>Orbis Sensualim Pictus</name>
+	<provenance>Unknown</provenance>
+	<notes></notes>
+      </doc>
+    </collection>
+    <version>1.0</version>
+  </corpus>
+</corpora>
