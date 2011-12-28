@@ -3,15 +3,28 @@
 # a repository.
 
 element corpora {
+	attribute base { text }?,
 	element corpus  {
 		element title {
+			attribute uri { text },
 			text
 		},
 		( element doc {
+		  	attribute file { text }?,
 		  	element name {
 				text
 			},
+			element page-count {
+				text
+			},
+			element author {
+				text
+			},
+			element editor {
+				text
+			}?,
 			element provenance {
+				attribute loc {text}?,
 				text
 			},
 			element notes {
@@ -19,10 +32,21 @@ element corpora {
 			}
 		} | ( element collection {
 		       element doc {
-			       	       	element name {
+		       		  	attribute file { text }?,
+					element name {
 						text
 					},
+					element page-count {
+						text
+					},
+					element author {
+						text
+					},
+					element editor {
+						text
+					}?,
 					element provenance {
+						attribute loc {text}?,
 						text
 					},
 					element notes {
@@ -33,5 +57,9 @@ element corpora {
 		element version {
 			text
 		}
+	}*,
+	element loc {
+		attribute name { text },
+		text
 	}*
 }

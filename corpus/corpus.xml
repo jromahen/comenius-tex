@@ -1,15 +1,51 @@
 <?xml version="1.0" ?>
 
-<corpora>
+<corpora base=".">
   <corpus>
-    <title>Orbis Sensualim Pictus</title>
+    <title uri="/orbis">Orbis Sensualim Pictus</title>
     <collection>
-      <doc>
-	<name>Orbis Sensualim Pictus</name>
-	<provenance>Unknown</provenance>
+      <doc file="cu31924032499455.pdf">
+	<name>The Orbis pictus of John Amos Comenius</name>
+	<page-count>246</page-count>
+	<author>John Amos Comenius</author>
+	<provenance loc="cornell">Syracuse, N.Y.: 1887</provenance>
+	<notes></notes>
+      </doc>
+      <doc file="johnamoscomeniio00comme.pdf">
+	<name>Joh. Amos Commenius's Visible WORLD: or, a Nomenclature, and Pictures of all the chief things that are in the World, and of Mens Employments therein</name>
+	<page-count>226</page-count>
+	<author>Joh. Amos Comenius</author>
+	<editor>Charles Hoole, M.A.</editor>
+	<provenance loc="boston">London, U.K.: 1705</provenance>
+	<notes></notes>
+      </doc>
+      <doc file="orbispictusofjoh00come.pdf">
+	<name>The Orbis Pictus of John Amos Comenius</name>
+	<page-count>244</page-count>
+	<author>John Amos Comenius</author>
+	<provenance loc="ny">Syracuse, N.Y.: 1887</provenance>
+	<notes></notes>
+      </doc>
+      <doc file="orbispictusofjoh00comeiala.pdf">
+	<name>The Orbis Pictus of John Amos Comenius</name>
+	<page-count>248</page-count>
+	<author>John Amos Comenius</author>
+	<provenance loc="ucsb">Syracuse, N.Y.: 1887</provenance>
 	<notes></notes>
       </doc>
     </collection>
     <version>1.0</version>
   </corpus>
+  <loc name="cornell">
+    Cornell University Library
+  </loc>
+  <loc name="boston">
+    Public Library of the City of Boston
+  </loc>
+  <loc name="ny">
+    New York Public Library
+  </loc>
+  <loc name="ucsb">
+    University of California, Santa Barbara
+  </loc>
 </corpora>
