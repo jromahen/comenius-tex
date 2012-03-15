@@ -1,0 +1,56 @@
+Spain, 1.
+France, 2.
+Ilabw, 5.
+England 4.
+Scolland 5.
+Ireland, 6.
+Germany, 7.
+Bohemia, 8.
+Hungary, 9,
+Croaiza, 10.
+Dacia, 11.
+Sclawonia, 12.
+Greece, 13.
+Thrace, 14.
+Podolia, 15.
+T arlary, 16.
+Liiuania, 17.
+Poland, 18.
+( &#164;zs )
+Ihkpania, 1.
+Gallia, 2.
+[ialza, 3.
+Anglia (Britania), 4.
+Scolia, 5.
+fhhernza, 6.
+Germania, 7,
+Bohemia, 8.
+flungaria, 9.
+Croatia, 10.
+Dacia, 11.
+Sclaoonia, 12.
+Grcecia, 1 3.
+Thracza, 14.
+Podolia, 15.
+T arlarza, 16.
+Liluania, 17.
+Polonia, 18.
+The Nelherlands, 19. [Belgium, 19.
+Denmark, 20.
+Norway, 21.
+Swethland 22.
+Lapland 2 3.
+Finland 24..
+Lisland 25.
+Prussia, 26.
+Muscovy, 27.
+and Russia, 28.
+Dania, 20.
+Norwegza, 21.
+Suecia, 22.
+Lappia, 2 3.
+Finnia, 24.
+Livonia, 25.
+Borussia, z6.
+Muscovz`a, 27.
+Russia, 28.

@@ -1,0 +1,2108 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Wed Dec 28 11:10:06 2011
+;; Desktop file format version 206
+;; Emacs version 23.3.1
+
+;; Global section:
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring nil)
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history '("/media/Keeper/dev/comenius-tex/corpus/orbis/"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-230-648.pbm.html.txt"
+  "cu-230-648.pbm.html.txt"
+  'html-mode
+  nil
+  678
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-229-645.pbm.html.txt"
+  "cu-229-645.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-228-642.pbm.html.txt"
+  "cu-228-642.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-227-639.pbm.html.txt"
+  "cu-227-639.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-226-636.pbm.html.txt"
+  "cu-226-636.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-225-633.pbm.html.txt"
+  "cu-225-633.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-224-630.pbm.html.txt"
+  "cu-224-630.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-223-627.pbm.html.txt"
+  "cu-223-627.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-222-624.pbm.html.txt"
+  "cu-222-624.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-221-621.pbm.html.txt"
+  "cu-221-621.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-220-618.pbm.html.txt"
+  "cu-220-618.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-219-615.pbm.html.txt"
+  "cu-219-615.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-218-612.pbm.html.txt"
+  "cu-218-612.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  nil)
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-217-609.pbm.html.txt"
+  "cu-217-609.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-216-606.pbm.html.txt"
+  "cu-216-606.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  nil)
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-215-603.pbm.html.txt"
+  "cu-215-603.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-214-600.pbm.html.txt"
+  "cu-214-600.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-213-597.pbm.html.txt"
+  "cu-213-597.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-212-594.pbm.html.txt"
+  "cu-212-594.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-211-591.pbm.html.txt"
+  "cu-211-591.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-210-588.pbm.html.txt"
+  "cu-210-588.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-209-585.pbm.html.txt"
+  "cu-209-585.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-208-582.pbm.html.txt"
+  "cu-208-582.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-207-579.pbm.html.txt"
+  "cu-207-579.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-206-576.pbm.html.txt"
+  "cu-206-576.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-205-573.pbm.html.txt"
+  "cu-205-573.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-204-570.pbm.html.txt"
+  "cu-204-570.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-203-567.pbm.html.txt"
+  "cu-203-567.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-202-564.pbm.html.txt"
+  "cu-202-564.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-201-561.pbm.html.txt"
+  "cu-201-561.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-200-558.pbm.html.txt"
+  "cu-200-558.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-199-555.pbm.html.txt"
+  "cu-199-555.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-198-552.pbm.html.txt"
+  "cu-198-552.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-197-549.pbm.html.txt"
+  "cu-197-549.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  nil)
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-196-546.pbm.html.txt"
+  "cu-196-546.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-195-543.pbm.html.txt"
+  "cu-195-543.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-194-540.pbm.html.txt"
+  "cu-194-540.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-193-537.pbm.html.txt"
+  "cu-193-537.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-192-534.pbm.html.txt"
+  "cu-192-534.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-191-531.pbm.html.txt"
+  "cu-191-531.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-190-528.pbm.html.txt"
+  "cu-190-528.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-189-525.pbm.html.txt"
+  "cu-189-525.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-188-522.pbm.html.txt"
+  "cu-188-522.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-187-519.pbm.html.txt"
+  "cu-187-519.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-186-516.pbm.html.txt"
+  "cu-186-516.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-185-513.pbm.html.txt"
+  "cu-185-513.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-184-510.pbm.html.txt"
+  "cu-184-510.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-183-507.pbm.html.txt"
+  "cu-183-507.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-182-504.pbm.html.txt"
+  "cu-182-504.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  nil)
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-181-501.pbm.html.txt"
+  "cu-181-501.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-180-498.pbm.html.txt"
+  "cu-180-498.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-179-495.pbm.html.txt"
+  "cu-179-495.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-178-492.pbm.html.txt"
+  "cu-178-492.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-177-489.pbm.html.txt"
+  "cu-177-489.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-176-486.pbm.html.txt"
+  "cu-176-486.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-175-483.pbm.html.txt"
+  "cu-175-483.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-174-480.pbm.html.txt"
+  "cu-174-480.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-173-477.pbm.html.txt"
+  "cu-173-477.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-172-474.pbm.html.txt"
+  "cu-172-474.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  nil)
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-171-471.pbm.html.txt"
+  "cu-171-471.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-170-468.pbm.html.txt"
+  "cu-170-468.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-169-465.pbm.html.txt"
+  "cu-169-465.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-168-462.pbm.html.txt"
+  "cu-168-462.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-167-459.pbm.html.txt"
+  "cu-167-459.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-166-456.pbm.html.txt"
+  "cu-166-456.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-165-453.pbm.html.txt"
+  "cu-165-453.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-164-450.pbm.html.txt"
+  "cu-164-450.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-163-447.pbm.html.txt"
+  "cu-163-447.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-162-444.pbm.html.txt"
+  "cu-162-444.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-161-441.pbm.html.txt"
+  "cu-161-441.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-160-438.pbm.html.txt"
+  "cu-160-438.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-159-435.pbm.html.txt"
+  "cu-159-435.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-158-432.pbm.html.txt"
+  "cu-158-432.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  nil)
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-157-429.pbm.html.txt"
+  "cu-157-429.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  nil)
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-156-426.pbm.html.txt"
+  "cu-156-426.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  nil)
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-155-423.pbm.html.txt"
+  "cu-155-423.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-154-420.pbm.html.txt"
+  "cu-154-420.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  nil)
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-153-417.pbm.html.txt"
+  "cu-153-417.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  nil)
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-152-414.pbm.html.txt"
+  "cu-152-414.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-151-411.pbm.html.txt"
+  "cu-151-411.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  nil)
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-150-408.pbm.html.txt"
+  "cu-150-408.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-149-405.pbm.html.txt"
+  "cu-149-405.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-148-402.pbm.html.txt"
+  "cu-148-402.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-147-399.pbm.html.txt"
+  "cu-147-399.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-146-396.pbm.html.txt"
+  "cu-146-396.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-145-393.pbm.html.txt"
+  "cu-145-393.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-144-390.pbm.html.txt"
+  "cu-144-390.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-143-387.pbm.html.txt"
+  "cu-143-387.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-142-384.pbm.html.txt"
+  "cu-142-384.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-141-381.pbm.html.txt"
+  "cu-141-381.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-140-378.pbm.html.txt"
+  "cu-140-378.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-139-375.pbm.html.txt"
+  "cu-139-375.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  nil)
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-138-372.pbm.html.txt"
+  "cu-138-372.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-137-369.pbm.html.txt"
+  "cu-137-369.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-136-366.pbm.html.txt"
+  "cu-136-366.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-135-363.pbm.html.txt"
+  "cu-135-363.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-134-360.pbm.html.txt"
+  "cu-134-360.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-133-357.pbm.html.txt"
+  "cu-133-357.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  nil)
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-132-354.pbm.html.txt"
+  "cu-132-354.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-131-351.pbm.html.txt"
+  "cu-131-351.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-130-348.pbm.html.txt"
+  "cu-130-348.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-129-345.pbm.html.txt"
+  "cu-129-345.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  nil)
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-128-342.pbm.html.txt"
+  "cu-128-342.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-127-339.pbm.html.txt"
+  "cu-127-339.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-126-336.pbm.html.txt"
+  "cu-126-336.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-125-333.pbm.html.txt"
+  "cu-125-333.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-124-330.pbm.html.txt"
+  "cu-124-330.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-123-327.pbm.html.txt"
+  "cu-123-327.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-122-324.pbm.html.txt"
+  "cu-122-324.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  nil)
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-121-321.pbm.html.txt"
+  "cu-121-321.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-120-318.pbm.html.txt"
+  "cu-120-318.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-119-315.pbm.html.txt"
+  "cu-119-315.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-118-312.pbm.html.txt"
+  "cu-118-312.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-117-309.pbm.html.txt"
+  "cu-117-309.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-116-306.pbm.html.txt"
+  "cu-116-306.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-115-303.pbm.html.txt"
+  "cu-115-303.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-114-300.pbm.html.txt"
+  "cu-114-300.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  nil)
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-113-297.pbm.html.txt"
+  "cu-113-297.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-112-294.pbm.html.txt"
+  "cu-112-294.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  nil)
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-111-291.pbm.html.txt"
+  "cu-111-291.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-110-288.pbm.html.txt"
+  "cu-110-288.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-109-285.pbm.html.txt"
+  "cu-109-285.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-108-282.pbm.html.txt"
+  "cu-108-282.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-107-279.pbm.html.txt"
+  "cu-107-279.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-106-276.pbm.html.txt"
+  "cu-106-276.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-105-273.pbm.html.txt"
+  "cu-105-273.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  nil)
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-104-270.pbm.html.txt"
+  "cu-104-270.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  nil)
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-103-267.pbm.html.txt"
+  "cu-103-267.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-102-264.pbm.html.txt"
+  "cu-102-264.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-101-261.pbm.html.txt"
+  "cu-101-261.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  nil)
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-100-258.pbm.html.txt"
+  "cu-100-258.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-099-255.pbm.html.txt"
+  "cu-099-255.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-098-252.pbm.html.txt"
+  "cu-098-252.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-097-249.pbm.html.txt"
+  "cu-097-249.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-096-246.pbm.html.txt"
+  "cu-096-246.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  nil)
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-095-243.pbm.html.txt"
+  "cu-095-243.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-094-240.pbm.html.txt"
+  "cu-094-240.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-093-237.pbm.html.txt"
+  "cu-093-237.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-092-234.pbm.html.txt"
+  "cu-092-234.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-091-231.pbm.html.txt"
+  "cu-091-231.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-090-228.pbm.html.txt"
+  "cu-090-228.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-089-225.pbm.html.txt"
+  "cu-089-225.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-088-222.pbm.html.txt"
+  "cu-088-222.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-087-219.pbm.html.txt"
+  "cu-087-219.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-086-216.pbm.html.txt"
+  "cu-086-216.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-085-213.pbm.html.txt"
+  "cu-085-213.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  nil)
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-084-210.pbm.html.txt"
+  "cu-084-210.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-083-207.pbm.html.txt"
+  "cu-083-207.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  nil)
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-082-204.pbm.html.txt"
+  "cu-082-204.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-081-201.pbm.html.txt"
+  "cu-081-201.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-080-198.pbm.html.txt"
+  "cu-080-198.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-079-195.pbm.html.txt"
+  "cu-079-195.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-078-192.pbm.html.txt"
+  "cu-078-192.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  nil)
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-077-189.pbm.html.txt"
+  "cu-077-189.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-076-186.pbm.html.txt"
+  "cu-076-186.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-075-183.pbm.html.txt"
+  "cu-075-183.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  nil)
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-074-180.pbm.html.txt"
+  "cu-074-180.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-073-177.pbm.html.txt"
+  "cu-073-177.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  nil)
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-072-174.pbm.html.txt"
+  "cu-072-174.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-071-171.pbm.html.txt"
+  "cu-071-171.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-070-168.pbm.html.txt"
+  "cu-070-168.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-069-165.pbm.html.txt"
+  "cu-069-165.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  nil)
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-068-162.pbm.html.txt"
+  "cu-068-162.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  nil)
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-067-159.pbm.html.txt"
+  "cu-067-159.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-066-156.pbm.html.txt"
+  "cu-066-156.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-065-153.pbm.html.txt"
+  "cu-065-153.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  nil)
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-064-150.pbm.html.txt"
+  "cu-064-150.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-063-147.pbm.html.txt"
+  "cu-063-147.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-062-144.pbm.html.txt"
+  "cu-062-144.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  nil)
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-061-141.pbm.html.txt"
+  "cu-061-141.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-060-138.pbm.html.txt"
+  "cu-060-138.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-059-135.pbm.html.txt"
+  "cu-059-135.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-058-132.pbm.html.txt"
+  "cu-058-132.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-057-129.pbm.html.txt"
+  "cu-057-129.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-056-126.pbm.html.txt"
+  "cu-056-126.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-055-123.pbm.html.txt"
+  "cu-055-123.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-054-120.pbm.html.txt"
+  "cu-054-120.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-053-117.pbm.html.txt"
+  "cu-053-117.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-052-114.pbm.html.txt"
+  "cu-052-114.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-051-111.pbm.html.txt"
+  "cu-051-111.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  nil)
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-050-108.pbm.html.txt"
+  "cu-050-108.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-049-105.pbm.html.txt"
+  "cu-049-105.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-048-102.pbm.html.txt"
+  "cu-048-102.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-047-099.pbm.html.txt"
+  "cu-047-099.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-046-096.pbm.html.txt"
+  "cu-046-096.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-045-093.pbm.html.txt"
+  "cu-045-093.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-044-090.pbm.html.txt"
+  "cu-044-090.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-043-087.pbm.html.txt"
+  "cu-043-087.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-042-084.pbm.html.txt"
+  "cu-042-084.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/Keeper/dev/comenius-tex/corpus/orbis/cu-041-081.pbm.html.txt"
+  "cu-041-081.pbm.html.txt"
+  'html-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
