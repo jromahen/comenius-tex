@@ -30,6 +30,7 @@ mv *.jpg raw-images/;
 ## Remove intermediate HOCR files (since these have been converted to text)
 
 rm *.pbm.html;
-
+rm *.ppm.html;
+rm *.jpg.html;
 
 echo "Conversion complete!";
