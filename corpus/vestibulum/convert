@@ -12,7 +12,7 @@ pdfimages -p "$doc" . ;
 # Once the images have been created, now we need to run them through the two other scripts, using Ocroscript
 # TODO: Add checks that the binaries exist.
 
-./ocr.sh;
+./ocrh.sh;
 ./hocrt.sh;
 
 # That's it!
