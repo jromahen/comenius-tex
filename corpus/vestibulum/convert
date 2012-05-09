@@ -1,0 +1,35 @@
+#!/bin/bash
+
+## Tears apart a PDF, then feeds it through OCR, converting finally to plaintext.
+
+doc=$@
+
+# Use Poppler tools to convert the doc(s) to images.
+# TODO: Add checks that the binaries exist.
+
+pdfimages -p "$doc";
+
+# Once the images have been created, now we need to run them through the two other scripts, using Ocroscript
+# TODO: Add checks that the binaries exist.
+
+./ocr.sh;
+./hocrt.sh;
+
+# That's it!
+
+# Do some organising of intermediate files.
+echo "Cleaning up...";
+
+## Relocate the raw images
+mkdir raw-images;
+
+mv *.ppm raw-images/;
+mv *.pbm raw-images/;
+mv *.jpg raw-images/;
+
+## Remove intermediate HOCR files (since these have been converted to text)
+
+rm *.pbm.html;
+
+
+echo "Conversion complete!";
