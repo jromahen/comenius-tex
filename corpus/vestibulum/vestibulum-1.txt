@@ -69,3 +69,88 @@ Firmamentum cæruleum.
 Vitrum est pellucidum.
 Asser opacus.
 Aqua turbida vel clara.
+
+Sapores.
+
+Mel est dulce.
+Sicut et saccharum.
+Fel amarum.
+Acetum acidum.
+Sal salsum.
+Piper acre.
+Immaturum pommum acerbum,
+vel austerum.
+
+Odores.
+
+Odor est suvavis.
+Foetor teter.
+
+Aliæ Qualitates.
+
+Lutum est humidum.
+Pulvis siccus.
+Ossa dura.
+Caro mollis.
+Glacies lubrica.
+Pruna est calida et candeus.
+Carbo frigidus et ater.
+Nos incedimus vestiti.
+Indi nudi.
+Unicornis est ferum animal.
+Vacca mansuetum (cicur).
+Leo sævum.
+Ovis mite.
+Conviva est hilaris.
+Locus amoenus.
+Amicitia jucunda.
+Nuncium lætum.
+Omnia illa grata et accepta.
+Locus est commodus vel incommodus.
+Tempus opportunum vel inopportunum.
+Instrumentum aptum vel ineptum.
+Persona idonea vel inidonea.
+Res est necessaria vel supervacanea.
+Rei usus utilis aut noxius.
+Res rei similis aut dissimilis.
+Sylva est densa vel rara.
+Ager foecundus aut sterilis.
+Motus est celer aut tardus.
+Cursor alacer aut piger.
+Operarius gnavus aut ignavus.
+Securis est acuta vel stupida (hebes).
+Cibus crudus vel coctus.
+Sermo jocosus vel serius.
+Historia certa aut dubia.
+Testimonium verum aut falsum.
+
+Comparativa.
+
+Primus est doctus.
+Secundus doctior.
+Tertius doctissimus.
+
+Anomala comparatio.
+
+Taurus est magnus.
+Camelus major.
+Elephas maximus.
+Passer est parvus.
+Parus minor.
+Trochilus minimus.
+Cervisia est bona.
+Mulsum melius.
+Vinum optimum.
+Lacerta est mala.
+Vipera pejor.
+Aspis pessima.
+
+Denominativa.
+
+Ducatus est aureus.
+Talerus argenteus.
+Ahenum cupreum.
+Cantharus stanneus.
+Malleus ferreus.
+Scammum ligneum.
+Murus lapideus.
