@@ -36,6 +36,19 @@
     </collection>
     <version>1.0</version>
   </corpus>
+  <corpus>
+    <title uri="/vestibulum">Januae Latinitatis Vestibulum</title>
+    <collection>
+      <doc file="Comenius - Vestibulum and Janua 001.pdf">
+	<name>Januae Latinitatis Vestibulum</name>
+	<page-count>8</page-count>
+	<author>John Amos Comenius</author>
+	<provenance loc="">Unknown</provenance>
+	<notes></notes>
+      </doc>
+    </collection>
+    <version>1.0</version>
+  </corpus>
   <loc name="cornell">
     Cornell University Library
   </loc>
