@@ -1,19 +1,23 @@
-\documentclass{book}
+\documentclass[12pt, twocolumn]{memoir}
+\chapterstyle{bianchi}
+\usepackage[latin]{babel}
+\usepackage{fontspec}
+\setmainfont{Linux Libertine O}
+
+\author{J.~A.~ Comenii\\
+\small{Ed. Johanni Omahenii}}
+\title{Januæ\\
+Linguæ Latinæ\\
+Vestibulum}
 
 \begin{document}
-J. A. Comenii
-Januæ 
-Linguæ Latinæ
-Vestibulum
-
-Januæ Latinitatis 
-Vestibulum
+\maketitle
 
 \chapter{Introitus}
 Venite pueri,
 Discite latinam linguam.
 Pulchram et elegantem.
-Comprehenditę
+Comprehendite
 Pro vestro captu,
 Varias res.
 Sapientiæ semina,
@@ -25,12 +29,10 @@ Si principium difficile,
 Medium erit facile,
 Finis jucundus.
 
-\chapter{Caput I.}
-
-\section{De accidentibus rerum.}
+\chapter{De accidentibus rerum.}
 
 Deus æternus,
-Mundus temporarius,
+vMundus temporarius,
 Angelus immortalis,
 Homo mortalis,
 Corpus visibile,
@@ -68,7 +70,7 @@ X habet formam crucis,
 Pavo est formosus,
 Simia deformis.
 
-\section{Colores.}
+\section*{\textsc{Colores.}}
 
 Creta est alba,
 Tabula nigra,
@@ -80,41 +82,41 @@ Vitrum est pellucidum,
 Asser opacus,
 Aqua turbida vel clara.
 
-\section{Sapores.}
+\section*{\textsc{Sapores.}}
 
 Mel est dulce,
-Sicut & Saccharum,
+Sicut et Saccharum,
 Fel amarum,
 Acetum acidum,
 Sal salsum,
 Piper acre,
 Immaturum pommum acerbum vel austerum.
 
-\section{Odores.}
+\section*{\textsc{Odores.}}
 
 Odor est suvavis,
 Foetor teter.
 
-\section{Aliæ qualitates.}
+\section*{\textsc{Aliæ qualitates.}}
 
 Lutum est humidum,,
 Pulvis siccus,
 Ossa dura,
 Caro mollis,
 Glacies lubrica,
-Pruna est calida & candeus,
-Carbo frigidus & ater.
+Pruna est calida et candeus,
+Carbo frigidus et ater.
 Nos incedimus vestiti,
 Indi nudi,
 Unicornis est ferum animal,
-Vacca mansuetum & cicur,
+Vacca mansuetum et cicur,
 Leo sævum,
 Ovis mite,
 Conviva est hilaris,
 Locus amoenus,
 Amicitia jucunda,
 Nuncium lætum,
-Omnia illa grata & accepta,
+Omnia illa grata et accepta,
 Locus est commodus vel incommodus.
 Tempus opportunum vel inopportunum,
 Instrumentum aptum vel ineptum,
@@ -133,13 +135,13 @@ Sermo jocosus vel serius,
 Historia certa aut dubia,
 Testimonium verum aut falsum.
 
-\section{Comparativa.}
+\section*{\textsc{Comparativa.}}
 
 Primus est doctus.
 Secundus doctior,
 Tertius doctissimus.
 
-\section{Anomala comparatio.}
+\section*{\textsc{Anomala comparatio.}}
 
 Taurus est magnus,
 Camelus major,
@@ -154,7 +156,7 @@ Lacerta est mala,
 Vipera pejor,
 Aspus pessimus.
 
-\section{Denominativa.}
+\section*{\textsc{Denominativa.}}
 
 Ducatus est aureus,
 Talerus argenteus,
@@ -164,14 +166,12 @@ Malleus ferreus,
 Scamnum ligneum,
 Murus lapideus.
 
-\chapter{Caput II.}
-
-\section{De rerum actionibus & passionibus.}
+\chapter{De rerum actionibus et passionibus.}
 
 Creatoris in honorem,
 Faciunt omnes creaturæ suum officium.
 
-\section{Cælestium actiones.}
+\section*{\textsc{Cælestium actiones.}}
 
 Angeli celebrant eum,
 Sollucet,
@@ -180,7 +180,7 @@ Stellæ micant,
 Mane incipit dies,
 Vesperi nox.
 
-\section{Elementorum.}
+\section*{\textsc{Elementorum.}}
 
 Elementa alunt nos,
 Ignis ardet,
@@ -195,7 +195,7 @@ Ex vase manat,
 Ex fonte salit,
 E' puteo hauritur.
 
-\section{Plantarum.}
+\section*{\textsc{Plantarum.}}
 
 Herba crescit,
 Folium viret,
@@ -203,12 +203,12 @@ Flos floret,
 Fructus maturescit,
 Quem ut carpas,
 Flecte ramum,
-Sive sint pyra, sive pruna, sive cerasa, &c.
+Sive sint pyra, sive pruna, sive cerasa, etc.
 Nux continet nucleum,
 Rosa olet bene,
 Urtica urit.
 
-\section{Animalium.}
+\section*{\textsc{Animalium.}}
 
 Lapus jacet,
 Arbor stat,
@@ -234,16 +234,16 @@ Gallina ponit ova,
 Anser vescitur avena,
 Vermes rodunt pingvia.
 Pediculi mordent cutem.
-Ut & pulices atque culices,
+Ut et pulices atque culices,
 Formica est laboriosa,
 Aranea artificiosa,
 Apes pungut aculeo 
 Quicquid vivit viget.
 
-\section{Hominis.}
+\section*{\textsc{Hominis.}}
 
 Nos agimus varia,
-Corpore & animo,
+Corpore et animo,
 caput repletur cerebro,
 tegitur capillis,
 Excepto vultu.
@@ -257,7 +257,7 @@ Lingua gustat quomodo res sapiant,
 Dentibus mandimus,
 Stomachus concoquit,
 Intestina egerunt,
-Hepar conficit sanquinem & dimittit per venas,
+Hepar conficit sanquinem et dimittit per venas,
 Cor palpitat,
 Pulmo respirat,
 Labia sunt circa os,
@@ -271,14 +271,14 @@ Palma palpamus,
 Pugno percutimus,
 Vola prehendimus,
 Digitus constringimus,
-Unguibus scabimus & scalpimus,
+Unguibus scabimus et scalpimus,
 Sub pectore venter est,
 Infra axillas latera,
 Sub his costæ,
 Tergum habet superne scapulas, inferne lumbos,
 Natibus sedemus pedibus ambulamus.
 
-\section{Mentis.}
+\section*{\textsc{Mentis.}}
 
 Mens cogitat semper aliquid.
 Etiam in somnio somniat,
@@ -289,7 +289,7 @@ Et si quid oblita est, recordatur,
 Voluntas vult bonum,
 Declinat malum,
 Sed sæpe fallitur,
-Gaudet & tristatur,
+Gaudet et tristatur,
 Securuss curat nihil,
 Tutus timet nihil,
 Vegetus laborat,
@@ -299,7 +299,7 @@ Sopor recreat,
 Cum septem horas dormivisti,
 Et evigilas, excita alios.
 
-\section{Morbidorum.}
+\section*{\textsc{Morbidorum.}}
 
 Jejunus appetit escas,
 Satur fastidit,
@@ -324,7 +324,7 @@ Claudus claudicat,
 Tactu coret nemo, nisi paraliticus,
 Mutilo deest aliquid.
 
-\section{Opificum.}
+\section*{\textsc{Opificum.}}
 
 Agricola arat,
 In vere seminat,
@@ -359,7 +359,7 @@ Nauclerus gubernat,
 Remiges remigant,
 Per fluvios vadamus,
 Aututimur scaphis,
-Aut sternimus pontes & ponticulos,
+Aut sternimus pontes et ponticulos,
 Viator it per semitam,
 Et cavet ne erret,
 Aut cadat in fovea,
@@ -369,7 +369,7 @@ Metuit damnum,
 quærit lucrum,
 Moneta gestatur in crumena,
 Queniam pecunia, quæ debemus, solvimus,
-Emimus & vendimus caro aut vili,
+Emimus et vendimus caro aut vili,
 Nummi sunt diversi, quisque sue valore,
 Netrix net e lino,
 Textor texit linteum telam,
@@ -381,14 +381,14 @@ Restio torquet restim,
 Figulus fingit fidelias,
 Scriniarius sua scrinia glutinat,
 Faber cudit,
-Lingnarius asciat securi & ædificat ædificium,
+Lingnarius asciat securi et ædificat ædificium,
 Ponit fundamentum, erigit parietes,
 operit tecto,
 Debile non est firmum,
 Fulcitur fulcris,
 Ut ne ruat.
 
-\section{Verba impersonalia.}
+\section*{\textsc{Verba impersonalia.}}
 
 Si tibi libet, licet,
 Si te piget laboris, pudeat te,
@@ -396,9 +396,7 @@ Decet te pænitere peccati,
 Adolescentum decet silentium,
 Si te sessionis tædet, oportet spaciari.
 
-\chapter{Caput III.}
-
-\section{De rerum circumstantiis.}
+\chapter{De rerum circumstantiis.}
 
 Quis vocat me? Ego.
 Tune es? Quis est igitur illic? Paulus.
@@ -433,7 +431,7 @@ Quomodo ludemus? Pila,
 Quamdiu? Tetum diem,
 Hui nimium est. Atqui sunt seriæ.
 
-\section{Præpositiones.}
+\section*{\textsc{Præpositiones.}}
 
 Pergamus rogo te,
 Nunc tibi parvas voclas exponam,
@@ -464,12 +462,12 @@ Hem! quantum infortunum!
 Felix prætalibus.
 Qui conscientiam puram custodit.
 
-\section{Numeralia.}
+\section*{\textsc{Numeralia.}}
 
 Scis numerare? utique.
 Tenta igitur; quot sunt res?
 Unus est codex Bibliorum,
-Duo sunt Testamenta Vetus & Novum,
+Duo sunt Testamenta Vetus et Novum,
 Tres personæ sanctæ Trinitatiş
 Quatuor evangelistæ,
 Quinque sensus,
@@ -482,9 +480,7 @@ Undecim Apostoli dempto Juda,
 Duodecim fidei articuli,
 Triginta dies sunt mentis.
 
-\chapter{Caput IV.}
-
-\section{De rebus in Schola}
+\chapter{De rebus in Schola}
 
 Scholasticus frequentat Scholam.
 Quo artibus erudiatur,
@@ -503,8 +499,8 @@ Doctor docet,
 Discipulus discit, non omnia simul, sed per partes.
 Præceptor præcipit facienda.
 Rector regit Academiam,
-Pædagogus advertit & urget.
-Custos monet & consignat.
+Pædagogus advertit et urget.
+Custos monet et consignat.
 Magister instituit universos,singuli attendunt,
 Ille emendat mendas,
 Diligens profcit, negligens vapulat,
@@ -530,9 +526,7 @@ Qui studiosum dedecorant.
 Verum de iis paulo infra.
 
 
-\chapter{Caput V.}
-
-\section{De rebus domi.}
+\chapter{De rebus domi.}
 
 Pulsa fores, si clausæ sint,
 Cum aperitur, transi ostium,
@@ -593,9 +587,7 @@ Patrus et amita sunt patris frater et soror; avunculus et matertera matris.
 Avi habent nepotes,
 Cognati affines.
 
-\chapter{Caput VI.}
-
-\section{De rebus in Urbe et Regione}
+\chapter{De rebus in Urbe et Regione}
 
 Urbs munitur moeniis.
 Nec non vallo et fossa,
@@ -648,9 +640,7 @@ Armis se defendunt,
 Tormentis arces expugnant.
 Revertuntur cum victoria.
 
-\chapter{Caput VII.}
-
-\section{De Virtutibus}
+\chapter{De Virtutibus}
 
 Virtutes sectare.
 Vita vitia, quæ lex vetat.
