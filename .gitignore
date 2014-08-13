@@ -1,3 +1,9 @@
 ## Ignore patterns for the project ##
 \#*.*
 *.*~
+
+## TeX-related ignores
+*.pdf
+*.log
+*.aux
+*.dvi
