@@ -1,0 +1,38 @@
+\documentclass[20pt,  letterpaper,extrafontsizes]{memoir}
+\usepackage{ledmac}
+
+%Critical edition options
+\lineation{section}
+\linenummargin{inner}
+\sidenotemargin{outer}
+
+\chapterstyle{thatcher}
+\pagestyle{Ruled}
+\pagenumbering{Roman}
+
+\usepackage[latin]{babel}
+\usepackage{verse}
+
+\usepackage{fontspec}
+%Moduarised fonts
+\setmainfont[Path=../fonts/]{LindenHill.otf}
+
+\usepackage{makeidx}
+\makeindex
+
+\author{J.~A.~ Comenii\\
+\small{Ed. Johanni Omahenii}}
+\title{Januæ\\
+Linguæ Latinæ \\
+\line(1,0){100} \\
+\large{Vestibulum}}
+
+\begin{document}
+\maketitle
+
+\beginnumbering
+\input{Vestibulum}
+\endnumbering
+
+\printindex
+\end{document}
