@@ -1,0 +1,44 @@
+\newfontfamily\brand[Style=Historic]{Junicode}
+\newcommand{\publishermark}{
+{\brand
+\small{
+\textsc{\addfontfeature{Alternate=2,Style=Swash} Terra Arcana}
+\rule{12pt}{0.25cm}
+}
+\tiny{Publishing Co.}
+}
+}
+
+\newcommand{\copyrightpage}{
+%%%% Copyright page 
+\thispagestyle{empty}
+\includegraphics[scale=0.5]{../cc-logo-large} \\
+
+\parbox{300pt}{
+\small
+\copyright{} Copyright 2014 J.~R.~Omahen.\\
+This work is licensed under the \textit{Creative Commons Attribution 4.0 International License}. To view a copy of this license, visit \\
+\texttt{http://creativecommons.org/licenses/by-nc-sa/4.0/}.
+} \\
+\\
+\vspace{0.2cm} \\
+\begin{center}
+\includegraphics[scale=0.1]{../cc-large}
+\includegraphics[scale=0.1]{../by-large}
+\includegraphics[scale=0.1]{../nc-large}
+\includegraphics[scale=0.1]{../sa-large}
+\end{center}
+\vfill
+\begin{flushleft}\normalsize
+First Edition \\
+10 9 8 7 6 5 4 3 2 1 / 12 11 10 9\\
+\end{flushleft}
+\begin{flushright}
+\vfill
+\publishermark \\
+\small{Designed in Diamond Bar, CA}\\
+\tiny{Printed \& Published in the United States of America}
+\end{flushright}
+\cleardoublepage
+
+}
